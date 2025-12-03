@@ -26,7 +26,7 @@ I obtained my Master’s degree from Zhejiang University in March 2025, supervis
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAGH Asia 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAGH Asia 2025</div><img src='images/CPSTG_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Compact Parameterization of Spacetime Gaussians
@@ -35,7 +35,7 @@ Compact Parameterization of Spacetime Gaussians
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/GSCodecStudio_Teaser_v7.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GSCodec Studio: A Modular Framework for Gaussian Splat Compression](https://arxiv.org/abs/2506.01822)
@@ -44,7 +44,7 @@ Sicheng Li, Chengzhen Wu, Hao Li, **Xiang Gao**, Yiyi Liao, Lu Yu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/GIFStream_teaser.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GIFStream: 4D Gaussian-based Immersive Video with Feature Stream](https://arxiv.org/abs/2506.01822)
@@ -53,7 +53,7 @@ Hao Li, Sicheng Li, **Xiang Gao**, Abudouaihati Batuer, Lu Yu, Yiyi Liao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2023</div><img src='images/VCIP_teaser' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bird’s-Eye-View-Based LiDAR Point Cloud Coding For Machines](https://ieeexplore.ieee.org/document/10402658)
