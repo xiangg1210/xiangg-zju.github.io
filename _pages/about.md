@@ -56,7 +56,7 @@ Hao Li, Sicheng Li, **Xiang Gao**, Abudouaihati Batuer, Lu Yu, Yiyi Liao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ISCAS_teaser.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Compressing 3D Gaussians with a 2D Hyperprior]
+Compressing 3D Gaussians with a 2D Hyperprior
 
 **Xiang Gao**, Sicheng Li, Yiyi Liao, Lu Yu
 </div>
