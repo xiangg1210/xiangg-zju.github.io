@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my Master’s degree from Zhejiang University in March 2025, supervised by Prof. Lu Yu and Prof. Yiyi Liao. My research focuses on 3D reconstruction and compression, with an emphasis on lightweight 3D representations and efficient storage. Meanwhile, I am actively seeking PhD opportunities and hope to receive attention from prospective advisors.
+I obtained my Master’s degree from Zhejiang University in March 2025, supervised by Prof. Lu Yu and Prof. Yiyi Liao. My research focuses on 3D reconstruction and compression, with an emphasis on lightweight 3D representations and efficient storage.
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 First Place, [SIGGRAPH Asia 2025 Volumetric Video Challenge - Compression Track](https://www.4dv.ai/research/sig-asia2025-volumetric-video-challenges#dates) 
@@ -29,11 +29,10 @@ I obtained my Master’s degree from Zhejiang University in March 2025, supervis
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAGH Asia 2025</div><img src='images/CPSTG_pipeline.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-Compact Parameterization of Spacetime Gaussians(to be release...)
+Compact Parameterization of Spacetime Gaussians
 
 **Xiang Gao**, Xiao Lei, Zesong Li, Yiyi Liao, Lu Yu
-</div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/gscodec.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
