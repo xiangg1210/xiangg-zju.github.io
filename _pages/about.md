@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my Master’s degree from Zhejiang University in March 2025, supervised by Prof. Lu Yu and Prof. Yiyi Liao. My research focuses on 3D reconstruction and compression, with an emphasis on lightweight 3D representations and efficient storage. Rencently, I am work as a 3D Vison engineer at X Lab, Hesai Technology.
+I obtained my Master’s degree from Zhejiang University in March 2025, supervised by Prof. Lu Yu and Prof. Yiyi Liao. My research focuses on 3D reconstruction and compression, with an emphasis on lightweight 3D representations and efficient storage. I am also proficient in video coding theory and engineering technology, including H.264, H.265, etc. Rencently(2025.04-Now), I am work as a 3D Vison engineer at X Lab, Hesai Technology.
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 First Place, [SIGGRAPH Asia 2025 Volumetric Video Challenge - Compression Track](https://www.4dv.ai/research/sig-asia2025-volumetric-video-challenges#dates) 
@@ -26,7 +26,7 @@ I obtained my Master’s degree from Zhejiang University in March 2025, supervis
 
 # 📝 Publications 
 
-<<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAGH Asia 2025</div><img src='images/CPSTG_pipeline.png' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAGH Asia 2025</div><img src='images/CPSTG_pipeline.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Compact Parameterization of Spacetime Gaussians((Completed at Hesai X Lab 2025.8-2025.11)
@@ -81,4 +81,4 @@ Compressing 3D Gaussians with a 2D Hyperprior
 -  2018.06 - 2022.06, Undergraduate, Communication Engineering. Wuhan University of Technology. 
 
 # 💻 Internships
-- *2024.06 - 2024.09*, Video Compression Engineering Intern, Huawei, China. 
+- *2024.06 - 2024.09*, Video Compression Engineering Intern, Huawei, China. Research on subjective quality improvement techniques for x265.
